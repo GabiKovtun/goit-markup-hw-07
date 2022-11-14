@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --title-text-color: #212121;
     --text-color: #757575;
     --accent-color: #2196F3;
@@ -11,9 +11,9 @@
     --icon-color: #AFB1B8;
     --transition-duration: 250ms;
     --transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
-p,
+/* p,
 h1,
 h2,
 h3,
@@ -30,41 +30,50 @@ ul {
 }
 
 img {
-    display: block;
-}
+    display: block;} */
 
-body {
+
+/* body {
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
     background: var(--white-color);
     margin: 0 auto;
 
-}
+} */
 
-.container {
+/* .container {
     width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
 
-}
+} */
 
-.list {
+/* .list {
     list-style: none;
 }
 
 .link {
     text-decoration: none;
-}
+} */
 
-.section {
+/* .section {
     margin: 0;
     padding-top: 94px;
     padding-bottom: 94px;
 
-}
+} */
+
+/* .logo {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+} */
 
 /* ------------header-------------- */
-.page-header {
+/* .page-header {
 
     border-bottom: 1px solid #ECECEC;
     align-items: center;
@@ -104,14 +113,7 @@ body {
     fill: var(--accent-color);
 }
 
-.logo {
-    font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-}
+
 
 .header-container {
 
@@ -199,11 +201,11 @@ body {
 .nav-item:hover,
 .nav-item:focus {
     color: var(--accent-color);
-}
+} */
 
 /* ------Studio--------------сторінка студія ---------------- */
 /* ---------Hero---------- */
-.hero {
+/* .hero {
     position: relative;
     max-width: 1600px;
     background-color: #C4C4C4;
@@ -216,10 +218,6 @@ body {
     text-align: center;
 
 }
-
-.hero-container {}
-
-
 
 .hero-title {
     font-weight: 900;
@@ -259,13 +257,13 @@ body {
 .hero-btn:hover,
 .hero-btn:focus {
     background-color: var(--aktive-accent-color);
-}
+} */
 
-.hero-btn {}
+
 
 /* ----------------------modal--------------------- */
 
-.backdrop {
+/* .backdrop {
     position: fixed;
     top: 0;
     left: 0;
@@ -316,9 +314,9 @@ body {
 .close:hover,
 .close:focus {
     fill: #2196F3;
-}
+} */
 
-
+/* 
 .modal-title {
     font-weight: 700;
     font-size: 20px;
@@ -514,10 +512,10 @@ body {
     height: 2px;
     padding-left: 5px;
     background-color: #2196F3;
-}
+} */
 
 /* ---------Features -- Особливості------ */
-.features {}
+/* .features {}
 
 .feature-icon-box {
     background: #F5F4FA;
@@ -528,10 +526,10 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
     margin-bottom: 30px;
-}
+} */
 
 
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -542,9 +540,9 @@ body {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
-.feature-list {
+/* .feature-list {
     display: flex;
     gap: 30px;
 }
@@ -574,10 +572,10 @@ body {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-}
+} */
 
 /* ------------------Work ---Чим ми займаємося---------- */
-.work {
+/* .work {
     padding-top: 0;
 }
 
@@ -618,11 +616,11 @@ body {
     text-transform: uppercase;
     color: #FFFFFF;
 
-}
+} */
 
 /* ----------------team---Наша команда----------  */
 
-.team {
+/* .team {
     background: var(--light-background-color);
 }
 
@@ -703,11 +701,11 @@ body {
 .team-soc-link:focus {
     background-color: var(--accent-color);
     fill: #FFFFFF;
-}
+} */
 
 /* -----------------client------------------- */
 
-.client-title {
+/* .client-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -746,10 +744,10 @@ body {
 .client-link:focus {
     border-color: var(--accent-color);
     fill: var(--accent-color);
-}
+} */
 
 /* ------foooter--------------- */
-.footer {
+/* .footer {
     background: var(--dark-background-color);
     padding-top: 60px;
     padding-bottom: 60px;
@@ -953,11 +951,11 @@ body {
 .subsription-btn:focus {
     background-color: var(--aktive-accent-color);
 }
-
+ */
 
 
 /*------------page portfolio-- сторінка портфоліо-------------- */
-
+/* 
 .portfolio {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -1085,4 +1083,4 @@ body {
 .portfolio-link:focus {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
 
-}
+} */
